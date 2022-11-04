@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "Grinnink.Caching": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "API_KEY": "PdSgVkYp3s6v9y$B&E)H@MbQeThWmZq4t7w"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5216;https://localhost:7216"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "environmentVariables": {
+        "API_KEY": "PdSgVkYp3s6v9y$B&E)H@MbQeThWmZq4t7w"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  }
+}
