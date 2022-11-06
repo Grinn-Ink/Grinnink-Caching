@@ -13,7 +13,7 @@ public class WriteCache : IEndpoint
         return Results.NoContent();
     };
 
-    public HttpMethod Method => HttpMethod.Post;
+    public HttpMethod Method => HttpMethod.Put;
 
     public string Name => "WriteCache";
 
