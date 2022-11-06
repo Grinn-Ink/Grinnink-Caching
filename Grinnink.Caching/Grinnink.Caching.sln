@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grinnink.Caching", "Grinnink.Caching\Grinnink.Caching.csproj", "{6EA01339-2C78-490A-BF89-1ADFF51A232A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grinnink.Caching", "Grinnink.Caching\Grinnink.Caching.csproj", "{A0E1C5BA-EA66-4A5A-83AD-B7401AF4D1F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6EA01339-2C78-490A-BF89-1ADFF51A232A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6EA01339-2C78-490A-BF89-1ADFF51A232A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6EA01339-2C78-490A-BF89-1ADFF51A232A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6EA01339-2C78-490A-BF89-1ADFF51A232A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E1C5BA-EA66-4A5A-83AD-B7401AF4D1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E1C5BA-EA66-4A5A-83AD-B7401AF4D1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E1C5BA-EA66-4A5A-83AD-B7401AF4D1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E1C5BA-EA66-4A5A-83AD-B7401AF4D1F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {26DBAA23-DBFB-4B5E-87FA-2AA7709393DA}
+		SolutionGuid = {1C8DB6AC-696D-4FDB-A2AB-3986235B023D}
 	EndGlobalSection
 EndGlobal

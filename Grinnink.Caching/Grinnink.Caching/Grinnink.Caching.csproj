@@ -4,18 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>bfab0a33-7213-41ab-afec-f7f7756c9198</UserSecretsId>
+    <UserSecretsId>a35ad756-5c69-4aed-bf78-e7c6362d0c6d</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
-    <Protobuf Include="Protos\greet.proto" GrpcServices="Server" />
-    <Protobuf Include="Protos\cache.proto" GrpcServices="Server" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Grpc.AspNetCore" Version="2.40.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
 </Project>
